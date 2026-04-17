@@ -1,0 +1,31 @@
+Company,Industry,Revenue_m,Profit_m,Country,Rank
+Walmart,Retail,611289,11294,USA,1
+Amazon,Retail,513983,30425,USA,2
+Sinopec,Energy,407099,6272,China,3
+Saudi Aramco,Energy,394591,105369,Saudi Arabia,4
+Apple,Technology,383285,94312,USA,5
+Toyota,Automotive,274517,18109,Japan,6
+Shell,Energy,272657,22385,UK,7
+Exxon Mobil,Energy,264938,55740,USA,8
+Berkshire Hathaway,Financial,261536,35466,USA,9
+Samsung,Technology,234687,29872,South Korea,10
+ICBC,Financial,214861,52461,China,11
+Foxconn,Technology,207101,10084,Taiwan,12
+China National Petroleum,Energy,204661,11460,China,13
+Volkswagen,Automotive,200296,14396,Germany,14
+UPS,Logistics,199526,11548,USA,15
+FedEx,Logistics,190432,6192,USA,16
+Microsoft,Technology,184903,72738,USA,17
+Huawei,Technology,182325,11367,China,18
+Google,Technology,177612,59972,USA,19
+Tesla,Automotive,166389,12556,USA,20
+Alibaba,E-commerce,160261,10569,China,21
+Tencent,E-commerce,155000,41470,China,22
+BP,Energy,150800,11041,UK,23
+CVS,Retail,148631,8031,USA,24
+Cardinal Health,Healthcare,147094,2761,USA,25
+Dell,Technology,142244,10585,USA,26
+BMW,Automotive,136610,13962,Germany,27
+PepsiCo,Food,136131,12682,USA,28
+Coca-Cola,Beverage,129125,10889,USA,29
+Nike,Sportswear,124314,9117,USA,30
