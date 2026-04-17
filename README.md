@@ -1,18 +1,18 @@
-\# README.md
+\ README.md
 
-\# Fortune 500 Mini Analyzer – ACC102 Track4
+\ Fortune 500 Mini Analyzer – ACC102 Track4
 
 An interactive financial analytics tool built with Streamlit for analyzing the top 30 Fortune Global 500 companies.
 
 
 
-\## 1. Problem \& User
+\ 1. Problem \& User
 
 This tool helps business and accounting students explore key financial metrics (revenue, profit, profit margin) across industries and countries, enabling clear and visual comparison of corporate performance. The target user is ACC102 students and beginner business analysts.
 
 
 
-\## 2. Data
+\ 2. Data
 
 Data Source: Fortune Global 500 2024, Fortune Media Limited  
 
@@ -38,7 +38,7 @@ Key Fields:
 
 
 
-\## 3. Methods
+\ 3. Methods
 
 \- Used pandas for data loading, filtering, and profit margin calculation  
 
@@ -54,7 +54,7 @@ Key Fields:
 
 
 
-\## 4. Key Findings
+\ 4. Key Findings
 
 \- Energy and Technology industries have the highest average profit and profit margin.  
 
@@ -68,7 +68,7 @@ Key Fields:
 
 
 
-\## 5. How to Run
+\ 5. How to Run
 
 1\. Install required libraries:
 
@@ -80,13 +80,13 @@ streamlit run app.py
 
 
 
-\## 6. Product Link / Demo
+\ 6. Product Link / Demo
 
 &#x20; 
 
 
 
-\## 7. Limitations \& Next Steps
+\ 7. Limitations \& Next Steps
 
 Limitations:  
 
