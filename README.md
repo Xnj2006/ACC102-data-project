@@ -70,7 +70,8 @@ Key Fields:
 
  5. How to Run
 
-1. Install required libraries:
+
+1.Install required libraries:
 
 pip install streamlit pandas matplotlib plotly
 
