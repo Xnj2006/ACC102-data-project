@@ -106,5 +106,5 @@ Next steps:
 
 - Enable chart export and PDF report generation.  
 
-\- Support more industries and larger datasets.
+- Support more industries and larger datasets.
 
