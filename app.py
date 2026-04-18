@@ -201,7 +201,7 @@ filtered_df = df[
     (df['Revenue_m'] <= revenue_max)
 ]
 
-st.write(f"Filter Results: {len(filtered_df)} country/countries")
+st.write(f"Filter Results: {len(filtered_df)} company/companies")
 st.dataframe(filtered_df.head(10))
 
 if len(filtered_df) > 0:
