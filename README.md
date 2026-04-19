@@ -84,7 +84,8 @@ streamlit run app.py
  6. Product Link / Demo
 
 https://acc102-data-project-zimqpxptezuqdbmhg3rmdz.streamlit.app/
-&#x20; 
+
+https://video.xjtlu.edu.cn/Mediasite/Play/07baca416b5b417a841951b3141f1ced1d
 
 
 
